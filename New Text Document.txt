@@ -1,0 +1,5 @@
+sample size and no of samples both are not equal
+
+suppose out of 1500 students in a school we want to divide them for project so we decided to divide 100 groups each group will have 15 students 
+sample size=no of students in each group=15
+no of samples=no of groups =100
